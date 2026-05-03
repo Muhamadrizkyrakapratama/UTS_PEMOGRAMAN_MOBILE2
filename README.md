@@ -31,13 +31,6 @@ Aplikasi ini menonjolkan desain UI/UX yang modern, bersih, serta menggunakan ani
 - **[Animate Do](https://pub.dev/packages/animate_do)** - Library untuk mempermudah animasi *fade in, slide, bounce*, dll.
 - **[Simple Icons](https://pub.dev/packages/simple_icons) & Cupertino Icons** - Icon pack modern dan elegan.
 
-## 📸 Cuplikan Layar (Screenshots)
-<div align="center">
-  <img src="https://github.com/MhmdArsyad/simple-flutter-apps/assets/91202011/9ca5ed20-8c4e-47ac-88d2-8499f6b8f889" width="220" alt="Login Page">
-  <img src="https://github.com/MhmdArsyad/simple-flutter-apps/assets/91202011/5f2ad010-ca58-4a59-8a6d-740a7cae8bd0" width="220" alt="Register Page">
-  <img src="https://github.com/MhmdArsyad/simple-flutter-apps/assets/91202011/2e5bd639-fb3a-4872-b7fe-6d9f0a83bda3" width="220" alt="Dashboard">
-  <img src="https://github.com/MhmdArsyad/simple-flutter-apps/assets/91202011/5960460e-7bfa-4ba0-b717-a72147ac0793" width="220" alt="Profile Page">
-</div>
 
 ## 📂 Struktur Folder Utama
 ```text
