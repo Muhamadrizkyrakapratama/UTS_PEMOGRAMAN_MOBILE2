@@ -65,6 +65,48 @@ lib/
 Jika database *Hive* masih kosong pada saat pertama kali dijalankan, sistem secara otomatis akan me-*seed* akun admin berikut untuk keperluan testing:
 - **Email:** `admin@sepatu.com`
 - **Password:** `admin123`
+## Manajemen Proyek dengan Scrum & ClickUp
+
+Proyek ini mengadopsi metodologi **Scrum** untuk manajemen pengembangan secara *agile*, dan menggunakan **ClickUp** sebagai *tools* utama untuk melacak *progress* (kemajuan) tugas. Berikut adalah langkah-langkah implementasinya:
+
+### 1. Setup Workspace & Space di ClickUp
+- Buat akun atau login ke [ClickUp](https://clickup.com/).
+- Buat **Workspace** baru (misal: `UTS Project Workspace`).
+- Di dalam Workspace, buat **Space** khusus untuk proyek ini (misal: `Flutter Kicks & Chatbot`).
+
+### 2. Menyusun Product Backlog (Daftar Tugas Utama)
+- Buat *List* baru dengan nama **"Product Backlog"** di dalam Space.
+- Pecah kebutuhan proyek menjadi tugas-tugas kecil (*Task* / *User Story*). Contoh Backlog:
+  - Setup UI Login & Register
+  - Implementasi Hive Database untuk Auth
+  - Desain Dashboard & Katalog Sepatu
+  - Integrasi UI Chatbot
+  - Halaman Profil Pengguna
+- Beri prioritas pada masing-masing tugas (*Urgent*, *High*, *Normal*, *Low*).
+
+### 3. Sprint Planning (Perencanaan Sprint)
+- Tentukan durasi Sprint (misal: 1 minggu atau 2 minggu).
+- Buat *List* atau *Folder* Sprint baru (misal: **"Sprint 1"**).
+- Pindahkan tugas-tugas prioritas tinggi dari *Product Backlog* ke *Sprint 1*.
+- Assign anggota tim (jika bekerja dalam tim) atau diri sendiri untuk mengerjakan tugas tersebut.
+- Tetapkan *Due Date* (tenggat waktu) dan *Time Estimate* (estimasi waktu pengerjaan) untuk setiap tugas.
+
+### 4. Membuat Kanban Board (Sprint Backlog)
+- Di dalam tampilan Sprint 1, gunakan *view* **Board** (Kanban).
+- Sesuaikan kolom *Status* tugas, umumnya menggunakan:
+  - **To Do** (Belum Dikerjakan)
+  - **In Progress** (Sedang Dikerjakan)
+  - **Review / Testing** (Sedang Diuji Coba)
+  - **Done** (Selesai)
+
+### 5. Daily Scrum (Pelaksanaan Harian)
+- Setiap hari (jika dalam tim) atau secara mandiri, lakukan *update* pada Kanban Board.
+- Pindahkan *card* tugas dari "To Do" ke "In Progress" saat mulai mengerjakan, lalu ke "Done" jika sudah rampung tanpa error.
+- Gunakan fitur *comments* atau *subtasks* di ClickUp untuk mencatat kendala (misal: *bug* saat integrasi Hive) dan *to-do list* harian.
+
+### 6. Sprint Review & Retrospective
+- Di akhir Sprint, evaluasi apakah semua tugas di "Sprint 1" telah berada di status **Done**.
+- Catat apa saja yang berjalan baik, kendala yang dihadapi, dan apa yang bisa diperbaiki untuk Sprint selanjutnya (*Sprint Retrospective*).
 
 ---
 *Dibuat untuk keperluan Ujian Tengah Semester dengan dedikasi pada pengembangan UI/UX dan arsitektur data lokal (CRUD) yang solid.*
