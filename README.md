@@ -10,6 +10,8 @@ Aplikasi ini adalah project Ujian Tengah Semester (UTS) untuk mata kuliah **Adva
 
 Aplikasi ini menonjolkan desain UI/UX yang modern, bersih, serta menggunakan animasi transisi yang halus untuk meningkatkan interaktivitas dan kenyamanan pengguna.
 
+### Link ClickUp & Scrum : https://app.clickup.com/90182676465/v/s/901810958274
+
 ## Fitur Utama
 1. **Sistem Autentikasi Modern (Login & Register)**
    - Form pendaftaran yang interaktif dan responsif.
